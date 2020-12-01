@@ -1,0 +1,17 @@
+body { background-color: #00FF00
+}
+
+h1 {color: #FF0040
+}
+
+p {
+  color:#0080FF
+}
+
+.destacado{
+  font-family:"Arial";
+  font-style: italic;
+  font-size: 30px; 
+  color:#190710
+   
+}
